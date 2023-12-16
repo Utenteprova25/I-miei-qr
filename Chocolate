@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Preparato per cioccolata calda</title>
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+        }
+        h1 {
+            font-size: 24px;
+        }
+        .sezione {
+            width: 50%;
+            float: left;
+        }
+    </style>
+</head>
+<body>
+    <h1>Dany's hot chocolate mix</h1>
+
+    <div class="sezione">
+        <h2>Istruzioni</h2>
+        <p>Mescola un cucchiaio colmo di preparava n 100 ml circa di latte in un pentolino e fai scaldare fino ad addensare.</p>
+    </div>
+
+    <div class="sezione">
+        <h2>Ingredienti</h2>
+        <ul>
+            <li>Cacao amaro in polvere</li>
+            <li>Zucchero di canna</li>
+            <li>Cioccolato fondente</li>
+            <! Amido di mais  -->
+        </ul>
+    </div>
+
+    <!-- Aggiungi qui il resto del tuo contenuto -->
+
+</body>
+</html>
